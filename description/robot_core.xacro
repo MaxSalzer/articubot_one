@@ -57,6 +57,7 @@
             </geometry>
             <material name="blue"/>
         </visual>
+    </link>
 
     <!--RIGHT WHEEL LINK-->
 
@@ -74,6 +75,7 @@
             </geometry>
             <material name="blue"/>
         </visual>
+    </link>
 
 
 </robot>
